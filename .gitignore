@@ -1,0 +1,5 @@
+data/
+kaggle.json
+access_token
+__pycache__/
+.venv/
